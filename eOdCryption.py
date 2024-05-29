@@ -1,4 +1,4 @@
-#
+#custom encryption, decryptoion.
 
 import random as rah
 import string
