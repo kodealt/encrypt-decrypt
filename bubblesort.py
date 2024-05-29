@@ -1,3 +1,4 @@
+#bubble, scratch
 list = []
 do = True
 while do:
